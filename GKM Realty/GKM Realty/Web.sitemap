@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="/Default.aspx" title="Home"  roles="*">
+    <siteMapNode url="" title="Staff" roles="*">
+      <siteMapNode url="~/ViewInventory.aspx" title="View Inventory"/>
+      <siteMapNode url="~/LoanInfo.aspx" title="Loan Information"/>
+    </siteMapNode>
+    <siteMapNode url="" title="Manager" roles="Manager">
+      <siteMapNode url="~/Manager/AddInventory.aspx" title ="Add Inventory" roles="Manager"/>
+      <siteMapNode url="~/Manager/EditInventory.aspx" title ="Edit Inventory" roles="Manager"/>
+      <siteMapNode url="~/Manager/Sales.aspx" title ="Sales History" roles="Manager"/>
+      <siteMapNode url="~/Manager/Employees.aspx" title="Employee List" roles="Manager"/>
+      <siteMapNode url="~/Manager/Register.aspx" title="Create Account" roles="Manager"/>
+      <siteMapNode url="~/Account/ChangePassword.aspx" title="Change Password" roles="Manager"/>
+    </siteMapNode>
+    <siteMapNode url="~/Account/Login.aspx" title="Login"  roles="*"/>
+    <siteMapNode url="~/Account/Logout.aspx" title ="Logout" roles="*"/>
+  </siteMapNode>
+</siteMap>

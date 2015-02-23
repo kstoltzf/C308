@@ -1,0 +1,10 @@
+C:\Users\Kyle\Documents\Visual Studio 2010\Projects\GKM Realty\GKM Realty\bin\GKM Realty.dll
+C:\Users\Kyle\Documents\Visual Studio 2010\Projects\GKM Realty\GKM Realty\bin\GKM Realty.pdb
+C:\Users\Kyle\Documents\Visual Studio 2010\Projects\GKM Realty\GKM Realty\bin\GKM Realty.xml
+C:\Users\Kyle\Documents\Visual Studio 2010\Projects\GKM Realty\GKM Realty\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kyle\Documents\Visual Studio 2010\Projects\GKM Realty\GKM Realty\obj\Debug\GKM_Realty.Resources.resources
+C:\Users\Kyle\Documents\Visual Studio 2010\Projects\GKM Realty\GKM Realty\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Kyle\Documents\Visual Studio 2010\Projects\GKM Realty\GKM Realty\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Kyle\Documents\Visual Studio 2010\Projects\GKM Realty\GKM Realty\obj\Debug\GKM Realty.dll
+C:\Users\Kyle\Documents\Visual Studio 2010\Projects\GKM Realty\GKM Realty\obj\Debug\GKM Realty.xml
+C:\Users\Kyle\Documents\Visual Studio 2010\Projects\GKM Realty\GKM Realty\obj\Debug\GKM Realty.pdb
